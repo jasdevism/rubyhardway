@@ -1,0 +1,30 @@
+# Exercise 7: More Printing
+# http://learnrubythehardway.org/book/ex7.html
+
+puts "Mary had a little lamb."
+puts "Its fleece was white as #{'snow'}" 
+puts "And everywhere that Mary went."
+
+#line 5 - (single-quote) tells Ruby to leave the string alone and ignore any variables inside it.
+
+
+# what does it to do?
+puts "." * 10 
+
+end1 = "C"
+end2 = "h"
+end3 = "e"
+end4 = "e"
+end5 = "s"
+end6 = "e"
+end7 = "B"
+end8 = "u"
+end9 = "r"
+end10 = "g"
+end11 = "e"
+end12 = "r"
+
+#watch that print vs. puts on this line - what's it do ?
+print end1 + end2 + end3 + end4 + end5 + end6 
+puts end7 + end8 + end9 + end10 + end11 + end12
+
