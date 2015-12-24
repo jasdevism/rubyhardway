@@ -1,7 +1,3 @@
-# Exercise 13: Parameters, Unpacking, Variables
-# http://learnrubythehardway.org/book/ex13.html
-
-
 
 a, b, c = ARGV 
 # Can make into any 3 things u want 

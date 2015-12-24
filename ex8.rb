@@ -1,4 +1,4 @@
-# Exercise 8: Printing, Printing
+# Exercise 8: putsing, putsing
 # http://learnrubythehardway.org/book/ex8.html
 
 formatter = "%{first} %{second} %{third} %{fourth}"
